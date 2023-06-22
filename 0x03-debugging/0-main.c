@@ -2,7 +2,7 @@
 
 /**
  * main - Test function for positive or negatie
- * 
+ *
  * Description: this positive or negative number
  * Return: 0
  **/
