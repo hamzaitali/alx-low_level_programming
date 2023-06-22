@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * positive_or_negative - show if number is positive or negative
- *
+ * @n: the number tested
  * Description: generete arandom number and show if positife or negative
  * Return: 0 (suceed)
 */
